@@ -9,4 +9,5 @@
     <?=$this->renderSection('content')?>
     <script src="<?=base_url()?>js/bootstrap.bundle.min"></script>
 </body>
+
 </html>
